@@ -68,6 +68,10 @@ body {
   padding: 15px;
 }
 
+.welcome-section h2 {
+  text-align: center;
+}
+
 input[type="email"], input[type="password"] {
   width: 95%;
   margin-bottom: 10px;
