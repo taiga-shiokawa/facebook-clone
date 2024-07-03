@@ -116,7 +116,16 @@ input[type="text"] {
   text-decoration: none;
   color: white;
   padding-right: 5px;
-  font-size: 13px;
+}
+
+table {
+  width: 100%;
+  text-align: left;
+}
+
+table thead th{
+  display: flex;
+  justify-content: space-between;
 }
 
 .footer {
