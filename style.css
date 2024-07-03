@@ -85,6 +85,11 @@ input[type="email"], input[type="password"] {
   cursor: pointer;
 }
 
+.button a {
+  color: white;
+  text-decoration: none;
+}
+
 ul {
   padding-left: 20px;
 }
